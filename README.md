@@ -44,3 +44,18 @@ Before running this application, make sure you have:
 1. Server Setup:
    - if you aleready have the jdk and javafx installed in you system then will work easily
    - just open the cmd on your server and run the statement " java ChatServer" and you will get that your response like "Chat sever started..."
+   - And you progam will run sucessfully
+
+## Common Issues and Solutions
+
+Port Already in Use:
+
+Solution: Change the port number in ChatServer.java
+Default port: 12345
+
+
+[Other common issues and their solutions]
+
+Author
+Sachin Vishwakarma
+
